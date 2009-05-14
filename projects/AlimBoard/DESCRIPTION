@@ -1,0 +1,5 @@
+<language en>
+<b>AlimBoard Project</b>
+<p>
+This is the EAGLE project for the robot's AlimBoard. This board carries the TRACO DC/DC converter and provides 3.3V and 5V to the robot's systems.
+</language>
