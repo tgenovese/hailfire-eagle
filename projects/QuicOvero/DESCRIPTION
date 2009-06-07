@@ -1,0 +1,9 @@
+<language en>
+<b>QuicOvero Project</b>
+<p>
+This is the EAGLE project for the robot's QuicOvero board. This board connects the Overo COM to the Quicgate FPGA via an SPI interface.
+<p>
+It also breakouts 2 serial ports, and could break I2C, PWM and ADC pins from the Overo.
+<p>
+The difficulty lies in the voltage level conversion. The Overo outputs are at 1.8V (2.5V for the ADC). They are translated to 3.3V for the SPI link with the FPGA, and 3.3V or 5V (configurable) for the serial ports, I2C and PWM pins. The ADC pins remain at 2.5V.
+</language>
