@@ -1,0 +1,5 @@
+<language fr>
+<b>ADC33 Project</b>
+<p>
+This is the EAGLE project an ADC board for the robot. This board carries the a Microchip MCP3008 10-bit A/D converter and provides an SPI interface to up to 8 analog sensors.
+</language fr>
