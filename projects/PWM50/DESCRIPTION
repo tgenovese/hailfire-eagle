@@ -1,0 +1,5 @@
+<language fr>
+<b>PWM50 Project</b>
+<p>
+This is the EAGLE project for a PWM board for the robot. This board carries four HCPL-0630 optocouplers to isolate the controller from potentially harmful noise. The board can drive up to 8 servos.
+</language fr>
