@@ -304,7 +304,7 @@ UsedLibrary="/Applications/EAGLE/lbr/zilog.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="0 22 1919 1108"
+Loc="0 22 1919 1115"
 State=1
 Number=0
 
