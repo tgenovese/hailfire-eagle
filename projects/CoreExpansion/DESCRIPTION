@@ -1,0 +1,12 @@
+<language fr>
+<b>CoreExpansion Project</b>
+<p>
+This is the EAGLE project for the robot's CoreExpansion board. This board is an expansion board that plugs in one of the two expansion ports of the CarrierBoard and provides the following connectors:
+<ul>
+<li>4 connectors for quadrature encoders</li>
+<li>2 connectors for motor controllers (2 motors each)</li>
+<li>1 connector for an ADC33 (8 analog sensors)</li>
+<li>1 connector for a PWM50 (8 servos)</li>
+<li>1 connector with 8 GPIOs</li>
+</ul>
+</language fr>
