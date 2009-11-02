@@ -306,10 +306,10 @@ UsedLibrary="/Applications/EAGLE/lbr/zilog.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="0 22 1919 1177"
+Loc="0 22 1279 773"
 State=1
 Number=0
 
 [Desktop]
-Screen="1920 2000"
+Screen="1280 800"
 Window="Win_1"
