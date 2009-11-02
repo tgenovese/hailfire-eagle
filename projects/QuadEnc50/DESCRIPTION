@@ -1,0 +1,5 @@
+<language fr>
+<b>QuadEnc50 Project</b>
+<p>
+This is the EAGLE project for the robot's QuadEnc50 board. This board does the level shifting necessary to link 4 quadrature encoders using 5.0V TTL logic level to the 3.3V IO of the FPGA.
+</language fr>
