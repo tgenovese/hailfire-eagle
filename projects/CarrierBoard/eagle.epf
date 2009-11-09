@@ -7,7 +7,7 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
-UsedLibrary="/Users/Titix/Projets/Robots/LittleBot/robotsrc/trunk/EAGLE/lbr/Robot.lbr"
+UsedLibrary="/Users/Thierry/Projets/Robots/LittleBot/robotsrc/trunk/EAGLE/lbr/Robot.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/19inch.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/40xx.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/41xx.lbr"
@@ -304,10 +304,10 @@ UsedLibrary="/Applications/EAGLE/lbr/zilog.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="47 141 1181 940"
-State=2
+Loc="0 22 1919 1177"
+State=1
 Number=0
 
 [Desktop]
-Screen="1920 1200"
+Screen="1920 2000"
 Window="Win_1"
