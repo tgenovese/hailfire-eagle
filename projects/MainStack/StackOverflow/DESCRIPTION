@@ -1,0 +1,13 @@
+<language fr>
+<b>StackOverflow Project</b>
+<p>
+This is the EAGLE project for one of the robot's boards. This board plugs on to the FPGA (Cardstac spec) and provides the following connectors:
+<ul>
+<li>1 connector for 4 quadrature encoders (via QuadEnc50)</li>
+<li>2 connectors for 2 motor controllers each</li>
+<li>1 connector for 8 analog sensors (via ADC33)</li>
+<li>1 connector for 8 servos (via PWM50)</li>
+<li>1 connector with 8 GPIOs</li>
+<li>1 connector with 7 GPIOs</li>
+</ul>
+</language fr>

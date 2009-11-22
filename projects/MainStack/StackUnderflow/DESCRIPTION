@@ -1,0 +1,13 @@
+<language fr>
+<b>StackUnderflow Project</b>
+<p>
+This is the EAGLE project for one of the robot's boards. This board:
+<ul>
+<li>carries and powers the FPGA and the Gumstix Overo
+<li>provides an SPI link between the Gumstix Overo (master) and the FPGA (slave)
+</ul>
+<p>
+The FPGA is connected to the board via two 2x32-pin connectors (Cardstac spec).
+<p>
+The Gumstix Overo is connected to the board via a Gumstix Pinto expansion board and two 30-pin connectors.
+</language fr>
