@@ -4,7 +4,8 @@
 This is the EAGLE project for one of the robot's boards. This board:
 <ul>
 <li>carries and powers the FPGA and the Gumstix Overo
-<li>provides an SPI link between the Gumstix Overo (master) and the FPGA (slave)
+<li>provides an SPI link between the Gumstix Overo (master) and the FPGA (slave) with 1.8V to 3.3V level conversion
+<li>breaks out two serial ports from the Gumstix Overo with 1.8V to 3.3V or 5V level conversion
 </ul>
 <p>
 The FPGA is connected to the board via two 2x32-pin connectors (Cardstac spec).
