@@ -3,18 +3,17 @@
 <p>
 This is the EAGLE project for one of the robot's boards. This board plugs on to the FPGA (Cardstac spec) and provides the following connectors:
 <ul>
-<li>2 connectors for 4 quadrature encoders each (via QuadEnc50)</li>
+<li>1 connector for 4 quadrature encoders (via QuadEnc50)</li>
+<li>1 connector for 8 analog sensors (via ADC33)</li>
+<li>1 connector for 8 servos (via PWM50)</li>
 <li>4 connectors for 2 motor controllers each</li>
-<li>2 connectors for 8 analog sensors each (via ADC33)</li>
-<li>2 connectors for 8 servos each (via PWM50)</li>
-<li>2 connectors with 8 GPIOs each</li>
-<li>2 connectors with 7 GPIOs each</li>
+<li>7 connectors with 8 IO lines each</li>
 </ul>
 <p>
-As the board is plugged on an FPGA, some of these connectors can of course be used for other tasks:
+As the board is plugged on an FPGA, even the dedicated connectors can be used for other tasks:
 <ul>
-<li>the quadrature encoders connectors, the servos connectors and the GPIO connectors all have 7 or 8 digital input/output lines
-<li>the analog sensors connectors are nothing but SPI ports with only one slave select (although the 4 digital input/output lines can also be used for other tasks than SPI)
-<li>only the motors connectors have a specific layout but still provide 6 digital input/output lines
+<li>the quadrature encoders connector and the servos connector have 8 IO lines
+<li>the analog sensors connector is an SPI port with only one slave select (although the 4 IO lines can be used for other tasks than SPI)
+<li>only the motors connectors have a specific layout but still provide 6 IO lines
 <ul>
 </language fr>
