@@ -1,0 +1,5 @@
+<language fr>
+<b>RoboClaw AddOn</b>
+<p>
+This is the EAGLE project for the robot's RoboClaw Add-on board. This board converts the UART and encoders 0.1" headers to separate connector sockets.
+</language fr>
